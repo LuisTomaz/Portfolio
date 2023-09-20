@@ -101,7 +101,7 @@ header i {
     font-weight: bold;
     font-size: 1rem;
 
-    background-image: url(/imagens/robotic-process-automation.png);
+    /*background-image: url(/imagens/robotic-process-automation.png);*/
     background-repeat: repeat;
     background-size: cover;
 }
